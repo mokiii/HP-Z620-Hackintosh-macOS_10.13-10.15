@@ -13,6 +13,9 @@ z620使用黑苹果必须在BIOS的里把`"legacy ACPI cpu tables"`设置为`"En
 
 ![](https://github.com/mokiii/HP-Z620-Hackintosh-macOS_10.13-10.15/blob/master/BiosSET.jpg)
 
+<br><br>
+****
+<br><br>
 
 Complete EFI for HP Z620 for macOS 10.13 to 10.15.4
 =
