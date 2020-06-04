@@ -3,6 +3,7 @@
 * USB3.0： **完美支持**
 * N卡： **部分支持**
 * A卡： **大部分支持**
+* 声卡：  **完美支持**
 * Nvme SSD： **完美支持**
 * 板载网卡： **在10.13下完美，但在10.15下会出现偶尔断流的问题**
 * 睡眠： **不支持也不建议打开**
@@ -22,6 +23,7 @@ Complete EFI for HP Z620 for macOS 10.13 to 10.15.4
 * USB3.0：          **Perfect Supported**
 * Nvidia Graphics： **Supported**
 * AMD Graphics：    **Supported**
+* Sound card：      **Perfect Supported**
 * Nvme SSD：        **Perfect Supported**
 * Onboard LAN：     **Supported (10.13 perfect，10.15 supported,but not perfect)**
 * Sleep：           **Not Support**
