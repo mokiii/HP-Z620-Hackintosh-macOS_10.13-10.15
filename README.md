@@ -1,6 +1,7 @@
 惠普Z620工作站 黑苹果EFI，支持 10.13-10.15.4已测试
 =
 * USB3.0： **完美支持**
+* CPU变频： **完美支持**
 * N卡： **部分支持**
 * A卡： **大部分支持**
 * 声卡：  **完美支持**
@@ -21,6 +22,7 @@ z620使用黑苹果必须在BIOS的里把`"legacy ACPI cpu tables"`设置为`"En
 Complete EFI for HP Z620 for macOS 10.13 to 10.15.4
 =
 * USB3.0：          **Perfect Supported**
+* CPU Frequency Conversion： **Perfect Supported**
 * Nvidia Graphics： **Supported**
 * AMD Graphics：    **Supported**
 * Sound card：      **Perfect Supported**
